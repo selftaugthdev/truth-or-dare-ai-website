@@ -62,6 +62,13 @@ export default function Home() {
           priority
           className="pointer-events-none absolute -right-4 top-8 w-28 select-none drop-shadow-[0_0_30px_rgba(255,47,135,0.35)] sm:w-44 sm:top-12 lg:w-56 lg:right-4"
         />
+        <Image
+          src="/mascot-surprised.png"
+          alt=""
+          width={847}
+          height={1264}
+          className="pointer-events-none absolute -left-6 bottom-0 w-24 select-none drop-shadow-[0_0_30px_rgba(255,47,135,0.35)] sm:w-36 sm:bottom-2 lg:w-44 lg:left-2"
+        />
         <h1 className="relative mx-auto max-w-3xl font-display text-4xl font-extrabold leading-tight text-white sm:text-6xl">
           Your group. Endless questions. <span className="text-gradient-accent">Zero awkward silence.</span>
         </h1>
@@ -74,6 +81,7 @@ export default function Home() {
           <Link href="/play" className="text-sm font-bold text-white/60 underline-offset-4 hover:text-white hover:underline">
             Or play free in your browser
           </Link>
+          <Image src="/logo.png" alt="Truth or Dare AI" width={1024} height={1024} className="mt-2 h-20 w-20 shadow-lg shadow-black/40" />
         </div>
       </section>
 
