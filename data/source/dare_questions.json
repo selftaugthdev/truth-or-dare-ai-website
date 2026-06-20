@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "q001",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Text someone in this room's contact list 'your name came up tonight' and show everyone the reply.",
+    "angle": "mystery creates panic",
+    "emotion": "social_risk",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q002",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Send a voice note to your last three contacts saying 'I've been thinking about you.' No explanation.",
+    "angle": "chaos by text",
+    "emotion": "social_risk",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q003",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Let the group write a caption for your most recent Instagram photo and post it for one hour.",
+    "angle": "group takes the wheel",
+    "emotion": "embarrassment",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q004",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Show everyone your camera roll from exactly one year ago. No deleting before you hand the phone over.",
+    "angle": "past self exposed",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q005",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Read the last voice note you sent out loud in a dramatically different accent. Everyone listens.",
+    "angle": "private moment, public stage",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q006",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Stand up and give a 30-second best man or maid of honor speech about the person to your right.",
+    "angle": "unhinged wedding energy",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q007",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Write a two-sentence apology to someone you've wronged and read it to the group. You don't have to say who it's for.",
+    "angle": "guilt made visible",
+    "emotion": "guilt",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q008",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Search your name in your own messages and read the first result you find out loud.",
+    "angle": "what do they say",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q009",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Let your partner read the last five things you searched on your phone and react in real time.",
+    "angle": "search history roulette",
+    "emotion": "embarrassment",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q010",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Tell the group something you've been putting off confronting. Then say one concrete step you'll actually take.",
+    "angle": "avoidance forced into words",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q011",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Walk up to a mirror, look yourself in the eye, and say one thing you actually need to hear right now.",
+    "angle": "self roast gets real",
+    "emotion": "controversial",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q012",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Go through your most-used emojis and explain the story behind each of the top five. No skipping.",
+    "angle": "digital life exposed",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q013",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Pick someone in the room and roast them in exactly three sentences. They're not allowed to respond for sixty seconds.",
+    "angle": "controlled social chaos",
+    "emotion": "social_risk",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q014",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Narrate everything the person across from you does for the next two minutes like a nature documentary. Do not break character.",
+    "angle": "absurd commentary pressure",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q015",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Draw a quick portrait of how you see yourself right now — not how you look, how you feel. Show it and explain one detail.",
+    "angle": "vulnerable self-portrait",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q016",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Assign everyone in the room a job based purely on their personality. Say the job and the reason out loud. No softening it.",
+    "angle": "brutally honest career casting",
+    "emotion": "controversial",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q017",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Compliment every person in the room in a way that sounds like an insult. They decide if it lands as sweet or savage.",
+    "angle": "backhanded affection challenge",
+    "emotion": "awkward",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q018",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Pitch yourself as a contestant on a reality dating show. Group asks you three casting questions. No hesitation allowed.",
+    "angle": "confidence meets cringe",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q019",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Direct your partner in a 30-second silent film scene from your relationship. They act. You shout stage directions.",
+    "angle": "creative chaos together",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q020",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Debate, with full conviction, why a completely mundane object is the greatest invention in human history. One minute. Go.",
+    "angle": "absurd persuasion challenge",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q021",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Conduct a fake job interview with the person to your left. You're hiring for a role that exposes their biggest flaw. Keep it professional.",
+    "angle": "awkward power dynamic",
+    "emotion": "awkward",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q022",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Narrate a fake movie trailer for a film about the most embarrassing thing that's ever happened to you. Title it. Cast it.",
+    "angle": "self-roast with flair",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q023",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Stand up and deliver a one-minute TED Talk about the single belief you hold that most people in this room would disagree with.",
+    "angle": "risky honest conviction",
+    "emotion": "controversial",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q024",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Charades — but you can only use facial expressions. No body movement. Group has 60 seconds to guess the movie you're given.",
+    "angle": "pure face acting chaos",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q025",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Negotiate with your partner for one real-life privilege — a free pass, a favor, anything. Make your case out loud. Group decides if you deserve it.",
+    "angle": "playful relationship stakes",
+    "emotion": "relationship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q026",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Improvise a 60-second cooking show segment using only items visible in this room as fake ingredients. Name the dish.",
+    "angle": "absurd performance energy",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q027",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Do your best impression of how each person in this room would handle being caught in a lie. Act each one out. No names — let them guess.",
+    "angle": "observation becomes performance",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q028",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Recreate your first argument as a full dramatic scene — you play your partner, they play you. Group judges who's more accurate.",
+    "angle": "role reversal self-awareness",
+    "emotion": "relationship",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q029",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Host a 90-second fake game show where you quiz the group on made-up rules to a sport you invent on the spot right now.",
+    "angle": "confident nonsense authority",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q030",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Give a eulogy for a personality trait you used to have that you've outgrown. Be sincere. Group can only applaud at the end.",
+    "angle": "grief for your old self",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q031",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Draw a Venn diagram on paper showing what you and the person across from you have in common versus where you completely differ. Present it.",
+    "angle": "visual friendship autopsy",
+    "emotion": "friendship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q032",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Stand up. For 60 seconds, speak only in compliments — directed at yourself. Group is not allowed to laugh or react until you're done.",
+    "angle": "radical self-regard discomfort",
+    "emotion": "embarrassment",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q033",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Announce to the group your most embarrassing talent. Then perform it. No miming — actual performance.",
+    "angle": "hidden skill forced out",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q034",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Guess what everyone in this room had for breakfast today. Say each guess out loud with full confidence.",
+    "angle": "observation game confidence bluff",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q035",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Re-enact how you think your partner acts when you're not around. Thirty seconds. They score your accuracy.",
+    "angle": "private self exposed publicly",
+    "emotion": "relationship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q036",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Confess a small, petty thing you've been silently judging someone in this room for. One sentence. Own it.",
+    "angle": "quiet judgment spoken aloud",
+    "emotion": "guilt",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q037",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Describe the version of yourself you were five years ago as if introducing a stranger to the group. Be honest.",
+    "angle": "past self as character",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q038",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Using only sound effects — no words — act out the last time you cried. Group guesses what happened.",
+    "angle": "vulnerable moment absurdly performed",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q039",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Pick one person in the room and pitch a conspiracy theory about their daily routine. Make it convincing. They cannot deny anything.",
+    "angle": "paranoid fictional accusation",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q040",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Recreate your first impression of your partner — the exact vibe, posture, expression. They guess what you were actually thinking.",
+    "angle": "first impression reconstructed live",
+    "emotion": "crushes",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q041",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Stand up and deliver a formal acceptance speech for an award the group invents for you right now based on your personality.",
+    "angle": "roast disguised as honor",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q042",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Invent a word that doesn't exist, define it live, use it in three sentences. Group votes whether it should be real.",
+    "angle": "language invention under pressure",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q043",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Mime the emotion you feel most often but never talk about. Hold the expression for thirty seconds. No explaining after.",
+    "angle": "silent emotional confession",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q044",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Improvise a 60-second courtroom closing argument defending the most questionable decision you made this year.",
+    "angle": "self-defense as legal drama",
+    "emotion": "social_risk",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q045",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Without using any names, describe everyone in this room as a movie genre. Say the genre and one sentence explaining why.",
+    "angle": "personality typed as film",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q046",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Teach your partner something — anything — in exactly 60 seconds as if they know absolutely nothing. Group scores your teaching.",
+    "angle": "patience and condescension test",
+    "emotion": "relationship",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q047",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Pick any two people in the room and argue, with evidence, that they are secretly the same person. One minute. No backing down.",
+    "angle": "absurd identity merger argument",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q048",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Name the person in this room you've underestimated. Tell them one specific thing you now see that you missed before.",
+    "angle": "quiet respect finally spoken",
+    "emotion": "friendship",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q049",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Freestyle rap for 30 seconds about the person to your right using only facts you actually know about them. No compliments allowed.",
+    "angle": "roast delivered as rap",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q050",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Do a live weather forecast for the emotional climate of this room right now. Point at people. Use technical terms.",
+    "angle": "comedic social observation",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q051",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Propose a fake constitutional amendment that would fix your biggest relationship pet peeve. Read it formally. Your partner may not object.",
+    "angle": "petty grievance made official",
+    "emotion": "relationship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q052",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Stand up. Without naming anyone, act out the moment in your life you most wish you'd had a witness for. No explanation after.",
+    "angle": "silent emotional exposure",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q053",
+    "category": "Dare",
+    "audience": "party",
+    "question": "You have 60 seconds to convince the group that a completely random number — chosen right now by the group — is secretly meaningful. Go.",
+    "angle": "absurd meaning-making challenge",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q054",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Translate the last awkward silence in this room into a full 30-second dramatic scene. Act both parts. Give it a title.",
+    "angle": "awkward silence dramatized",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q055",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Invent a board game on the spot. Name it, explain the rules in 30 seconds, and demonstrate one turn using people in this room.",
+    "angle": "chaotic creative invention",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q056",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Deliver a 45-second graduation speech to your past self. Pick the exact age. Group cannot laugh until you finish.",
+    "angle": "vulnerable time-travel speech",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q057",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Choreograph and perform a 30-second interpretive dance representing the group dynamic tonight. No music needed. Full commitment required.",
+    "angle": "physical social commentary",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q058",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Argue — with complete conviction — that your worst habit is actually your most attractive quality. Partner is the judge.",
+    "angle": "confident flaw rebranding",
+    "emotion": "relationship",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q059",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Using only your body, spell out a word chosen secretly by the group. No clues. You have 45 seconds. Group guesses.",
+    "angle": "physical spelling chaos",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q060",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Pick the person you know least well here. Describe their life story as you imagine it — confidently, with detail. They score your accuracy.",
+    "angle": "bold social guessing game",
+    "emotion": "social_risk",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q061",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Describe the version of yourself you're most afraid other people already see. One minute. No softening it.",
+    "angle": "feared self-image revealed",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q062",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Invent a signature cocktail named after your own personality. Describe every ingredient and why it belongs. Group rates the concept.",
+    "angle": "self-aware personality branding",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q063",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Lip sync a song chosen by the group with zero warning. Full performance — movement, expression, commitment. Group scores you out of ten.",
+    "angle": "performance pressure unexpected song",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q064",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Everyone writes down one word. You have 90 seconds to weave all of them into a single coherent bedtime story. Tell it out loud.",
+    "angle": "improv storytelling under pressure",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q065",
+    "category": "Dare",
+    "audience": "party",
+    "question": "You are a news anchor. Deliver a 60-second breaking news segment about something trivial that actually happened in this room tonight.",
+    "angle": "deadpan absurd broadcast",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q066",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Stand up and reenact — in real time — how you physically behave when you have a crush on someone. No narrating. Just show it.",
+    "angle": "body language confession performance",
+    "emotion": "crushes",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q067",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Pick two people in the room and officiate a fake 45-second wedding between their worst personality traits. Name the traits. Marry them properly.",
+    "angle": "absurd roast ceremony",
+    "emotion": "funny",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q068",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Write your own two-sentence obituary right now. Read it aloud. Group is not allowed to comment for fifteen seconds after.",
+    "angle": "mortality self-reflection discomfort",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q069",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Describe your relationship as a genre of film you'd never watch voluntarily. Name the film, the rating, and the one-line synopsis. Your partner reacts.",
+    "angle": "self-aware relationship roast",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q070",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Choose a person in the room. Draw their portrait using only your non-dominant hand. Sixty seconds. Show everyone without apologizing for it.",
+    "angle": "confidence despite bad output",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q071",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Stand in front of the group and pitch yourself as a brand. Name, tagline, target market, one weakness. Full deck. Thirty seconds. Go.",
+    "angle": "self-promotion cringe confidence",
+    "emotion": "social_risk",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q072",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Everyone secretly votes on an animal that represents your personality. You must guess what animal you got before they reveal it.",
+    "angle": "group perception guessing game",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q073",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Recite the last compliment someone gave you that you didn't believe. Say it again — this time like you actually do.",
+    "angle": "self-worth performed out loud",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q074",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Improvise a 60-second infomercial for the most annoying habit of the person to your left. Sell it as a lifestyle product. Name it.",
+    "angle": "habit roasted as aspiration",
+    "emotion": "funny",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q075",
+    "category": "Dare",
+    "audience": "party",
+    "question": "The group gives you a celebrity, an accent, and a topic. You have 45 seconds to deliver a monologue combining all three. No warm-up.",
+    "angle": "triple improv constraint chaos",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q076",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Make sustained eye contact with one person and, without smiling, slowly explain why you find them intimidating. They cannot look away.",
+    "angle": "vulnerability delivered directly",
+    "emotion": "social_risk",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q077",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Walk around the room and silently assign everyone a superhero power based on their biggest flaw. Announce all of them at once at the end.",
+    "angle": "flaw reframed as power",
+    "emotion": "friendship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q078",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Tell the group a story about yourself using three true sentences and one lie. Everyone guesses which is false. You reveal nothing until all votes are in.",
+    "angle": "identity hidden in plain sight",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q079",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Using only your voice — no words, just sounds — perform the opening scene of a horror movie. Group votes thumbs up or down after thirty seconds.",
+    "angle": "absurd performance under pressure",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q080",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "You have ninety seconds to write a personal ad for yourself — flaws listed first, strengths last. Read it exactly as written. No edits allowed.",
+    "angle": "radical self-exposure on paper",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q081",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Group secretly picks a famous villain. You must defend that villain's choices for sixty seconds with complete moral conviction. Group cross-examines you.",
+    "angle": "forced moral gymnastics in public",
+    "emotion": "controversial",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q082",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Pick any object in this room. You have 45 seconds to teach the group a fake martial art based on it. Name the style. Demonstrate three moves.",
+    "angle": "absurd authority figure energy",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q083",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Stand up. Point to someone. Say one thing you've never said to them out loud — but only if you mean it completely. No softening allowed.",
+    "angle": "unsaid truth finally spoken",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q084",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Without speaking, use only props in this room to build a physical monument to your relationship's biggest inside joke. Sixty seconds. Partner guesses what it is.",
+    "angle": "private language made visible",
+    "emotion": "relationship",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q085",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Pick one person. Guess their most-used phrase, their resting face, and their walk — then demonstrate all three back-to-back. They score each one.",
+    "angle": "observation exposed live",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q086",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Stand up. Using only furniture and people as props, build a physical timeline of the biggest decision you've ever made. Walk the group through it.",
+    "angle": "life story without words",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q087",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Cold-pitch a start-up to the group in sixty seconds. The product must solve a problem that only exists in this specific friend group. Take questions.",
+    "angle": "friendship exposed as market research",
+    "emotion": "friendship",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q088",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Without coaching your partner, mime a scene from your first date. They narrate what they think is happening in real time.",
+    "angle": "memory vs reality clash",
+    "emotion": "relationship",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q089",
+    "category": "Dare",
+    "audience": "awkward",
+    "question": "Face the room and recite every compliment you've ever received that you genuinely believed. Keep going until you run out.",
+    "angle": "self-worth made visible",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q090",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Guess the most embarrassing thing each person here has Googled in the last week. One guess per person. Say them all at once.",
+    "angle": "collective paranoia activated",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q091",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Write one sentence on paper that you've never said to anyone. Fold it. Group decides — you read it aloud or burn it unread.",
+    "angle": "secret on the edge",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q092",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Dub a silent 30-second scene that the group acts out in real time. You provide all voices and sound effects. No script. Go.",
+    "angle": "live chaos performance",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q093",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Sell an imaginary product to the group using only mime. No words, no sounds. Group has 45 seconds to guess what you're selling.",
+    "angle": "silent salesman absurdity",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q094",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Stand up. Shake hands with every person in the room and say one word — only one — that you think defines them. No repeats.",
+    "angle": "raw one-word verdict",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q095",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Announce a fake recall of a household product. Deliver the safety warning with full government-official energy. Group asks follow-up questions.",
+    "angle": "absurd authority figure performance",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q096",
+    "category": "Dare",
+    "audience": "deep",
+    "question": "Walk to the door. Pretend you're leaving this friendship group for good. Give a ten-second goodbye. Then sit back down and say nothing.",
+    "angle": "silence after exposure lands hard",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q097",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Invent a handshake-based secret society on the spot. Recruit one member, teach the ritual, name the society. Group decides if they'd join.",
+    "angle": "absurd charisma on trial",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q098",
+    "category": "Dare",
+    "audience": "couples",
+    "question": "Translate your relationship into a two-sentence IKEA instruction manual. Read it aloud. Your partner rates assembly difficulty out of five.",
+    "angle": "love reduced to furniture",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q099",
+    "category": "Dare",
+    "audience": "friends",
+    "question": "Stand up and present a thirty-second argument for why you specifically should survive a zombie apocalypse. Group votes immediately after. No rebuttals.",
+    "angle": "confidence meets judgment",
+    "emotion": "social_risk",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q100",
+    "category": "Dare",
+    "audience": "party",
+    "question": "Auction off an invisible object to the room. Name it, set a starting bid, and hype it for 45 seconds. Highest bidder must act thrilled.",
+    "angle": "absurd confidence performance",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  }
+]

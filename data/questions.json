@@ -1,0 +1,1869 @@
+{
+  "truthOrDare": {
+    "truth": [
+      {
+        "id": "truth-q001",
+        "text": "Which person in this group have you vented about the most to someone outside this group?",
+        "intensity": 10,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q002",
+        "text": "What's something your partner does in public that makes you cringe but you've never said anything about?",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q003",
+        "text": "Which friend in this group do you think is the most likely to betray someone for personal gain?",
+        "intensity": 10,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q004",
+        "text": "What's a habit or trait your ex had that you secretly miss, and your partner doesn't know?",
+        "intensity": 10,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q005",
+        "text": "Have you ever pretended not to see a notification from someone because you just didn't want to deal with them?",
+        "intensity": 4,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q006",
+        "text": "What's a red flag you noticed about someone in this group when you first met them that turned out to be true?",
+        "intensity": 10,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q007",
+        "text": "When did you last feel truly alone even though your partner was right there with you?",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q008",
+        "text": "What's the pettiest reason you've ever ended or distanced yourself from a friendship?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q009",
+        "text": "What's a decision you made for someone else's comfort that quietly cost you something you can't get back?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q010",
+        "text": "What's the most embarrassing thing you've googled about yourself to see what other people might find?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q011",
+        "text": "Who here have you mentally rehearsed a difficult conversation with but never actually had it?",
+        "intensity": 10,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q012",
+        "text": "What's a topic you and your partner avoid so consistently that you've both just silently agreed it doesn't exist?",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q013",
+        "text": "What's something you're genuinely jealous of about someone in this room that you'd never say to their face?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q014",
+        "text": "What childhood version of yourself would be most disappointed by who you became?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q015",
+        "text": "What's the biggest lie you've told yourself about why a past relationship ended?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q016",
+        "text": "If your parents could see exactly how you turned out, what part would genuinely surprise them most?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q017",
+        "text": "What's a first impression you made on someone in this room that you wish you could redo?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q018",
+        "text": "What's one thing you genuinely admire about your partner that you've never said directly to their face?",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q019",
+        "text": "What's a moral line you were certain you'd never cross that you've since crossed, even slightly?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q020",
+        "text": "What's the most embarrassing thing a sibling or family member has done that you've pretended not to know about?",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q021",
+        "text": "What's a failure you've had that, looking back, you're quietly glad happened?",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q022",
+        "text": "What's something about your own appearance that you're self-conscious about that you've never told anyone?",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q023",
+        "text": "What's a small personal milestone you hit recently that you celebrated completely alone because it felt too small to share?",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q024",
+        "text": "What's something your sibling is genuinely better at than you that you've never admitted out loud?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q025",
+        "text": "What's a job interview you completely bombed that you've never told the full truth about to anyone?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q026",
+        "text": "What's something you've watched a friend go through where you secretly thought you'd have handled it better?",
+        "intensity": 8,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q027",
+        "text": "What's the most dramatic thing you believed as a child that you're embarrassed you ever thought was real?",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q028",
+        "text": "What's something a parent or guardian did that you swore you'd never do, and you've now done it?",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q029",
+        "text": "What's a social situation you completely froze in that still makes you rehearse what you should have said?",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q030",
+        "text": "What's the most impulsive purchase you've ever made and what extremely flimsy reason did you tell yourself justified it?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q031",
+        "text": "What's a completely irrational superstition or ritual you still follow as an adult?",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q032",
+        "text": "What's a compliment you received once from a stranger that shaped how you see yourself more than anything a friend ever said?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q033",
+        "text": "What's something you pretended to understand for years before quietly googling it alone one night?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q034",
+        "text": "What's a moment from childhood that felt totally normal then but now gives you second-hand embarrassment about yourself?",
+        "intensity": 4,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q035",
+        "text": "What's the most honest thing you've ever said to yourself in a mirror that you'd never say in a room full of people?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q036",
+        "text": "What's something you're genuinely afraid of that you always laugh off when it comes up in conversation?",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q037",
+        "text": "What's the most confident you've ever felt in your life and why doesn't that version of you show up anymore?",
+        "intensity": 8,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q038",
+        "text": "What's a goal you had before this relationship that you've deprioritized so gradually you barely noticed it disappear?",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q039",
+        "text": "What's a totally legal, totally harmless thing you do alone that you would immediately deny if someone walked in?",
+        "intensity": 2,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q040",
+        "text": "What's the worst job you ever had and what's the most unhinged thing you did while working it?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q041",
+        "text": "What's a version of an apology you received that you accepted out loud but never actually forgave?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q042",
+        "text": "What's the most embarrassing thing you've ever done at a family gathering that the whole family remembers but you pretend never happened?",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q043",
+        "text": "What's a strongly held belief you had at 16 that you'd be most embarrassed to defend in front of this group right now?",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q044",
+        "text": "What's a sacrifice someone made for you that you've never fully acknowledged to them, and probably never will?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q045",
+        "text": "What's the most confidently wrong thing you once argued with someone about before silently googling it and discovering you were completely wrong?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q046",
+        "text": "What's the most embarrassing way you've mispronounced a word for years before someone finally corrected you in public?",
+        "intensity": 2,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q047",
+        "text": "What's a trend, aesthetic, or era of culture you secretly miss but would never publicly admit nostalgia for?",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q048",
+        "text": "What's the most creative excuse you've ever invented to get out of something, and did it actually work?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q049",
+        "text": "What's something about your personality you've been told is a strength your whole life that you've recently started to think might actually be a flaw?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q050",
+        "text": "What's a social rule everyone else seems to understand instinctively that you've had to consciously learn and still sometimes get wrong?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q051",
+        "text": "What's something you genuinely believed about love before this relationship that this relationship has quietly proved wrong?",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q052",
+        "text": "What's the most selfish reason you've ever stayed in a friendship that had nothing to do with actually liking the person?",
+        "intensity": 8,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q053",
+        "text": "What's a completely normal thing that other people do effortlessly that genuinely stresses you out every single time?",
+        "intensity": 4,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q054",
+        "text": "What's the most embarrassing thing you still do that is objectively something a ten-year-old would do?",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q055",
+        "text": "What's a moment you said nothing when someone needed you to speak up, and you've never stopped thinking about it?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q056",
+        "text": "What's a room in your childhood home that you still dream about and can't explain why?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q057",
+        "text": "What's the most absurd rule your family had growing up that you only realized was weird as an adult?",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q058",
+        "text": "What's a personal value you lecture others about that you've privately compromised on more than once?",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q059",
+        "text": "What's a strongly held food opinion you have that you know would genuinely offend at least one person in this room?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q060",
+        "text": "What's the most aggressively normal life choice you've made that you secretly resent yourself for not fighting harder against?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q061",
+        "text": "What's a personality trait you copied from someone in this room without ever telling them?",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q062",
+        "text": "What's one thing you know is true about who you are that you've never let a single person in your life fully see?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q063",
+        "text": "What's a friend group you were part of before this one that you left without ever giving the real reason why?",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q064",
+        "text": "What's a compliment you gave someone that was actually a dig and they took it completely straight?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q065",
+        "text": "What's the biggest gap between how competent you appear at work and how you actually feel doing the job?",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q066",
+        "text": "What's a moment you chose comfort over courage and still wonder who you'd be if you'd gone the other way?",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q067",
+        "text": "What's something you own that reveals a version of yourself you'd rather nobody in this room picture?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q068",
+        "text": "What's a completely made-up skill or hobby you claimed to have on a first impression that you then had to secretly maintain?",
+        "intensity": 4,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q069",
+        "text": "What's the most money you've spent on yourself without telling your partner, and what story did you tell instead?",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q070",
+        "text": "What's a genuinely weird thing you do before a big moment — job interview, date, performance — that you've never admitted to anyone?",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q071",
+        "text": "What's a moment someone believed in you more than you believed in yourself, and you've never gone back to tell them they were right?",
+        "intensity": 6,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q072",
+        "text": "What's a career you'd secretly drop everything for tomorrow if money wasn't a factor, and why haven't you said that out loud before?",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q073",
+        "text": "What's the most unfair advantage you've had in life that you rarely bring up because acknowledging it feels complicated?",
+        "intensity": 8,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q074",
+        "text": "What's a compliment you fish for constantly but would be mortified if someone called you out for fishing?",
+        "intensity": 4,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q075",
+        "text": "What's a small daily decision your partner makes that you've been silently overriding your own preference for without them knowing?",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q076",
+        "text": "What's the most impressive-sounding thing on your resumé that you could not actually do again if someone tested you right now?",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q077",
+        "text": "What's a food, movie, or song that everyone in your life loves that you genuinely cannot stand but fake enthusiasm for?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q078",
+        "text": "What's the most obvious thing about your own personality that you were the absolute last person to notice?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q079",
+        "text": "What's a totally harmless but deeply specific hill you would die on in an argument that makes absolutely no logical sense?",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q080",
+        "text": "What's a version of yourself you became to survive a specific period of your life that you never fully let go of?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q081",
+        "text": "What's a version of success you chased for years that you finally got, then quietly realized wasn't yours to begin with?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q082",
+        "text": "What's a genuinely weird physical or mental habit you have in the first five minutes after waking up that no one has ever witnessed?",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q083",
+        "text": "What's a skill or subject you were top of your class in as a kid that you have completely, embarrassingly lost?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q084",
+        "text": "What's a version of your future self you've stopped picturing, and when exactly did you stop?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q085",
+        "text": "What's a genuinely kind thing you've done for someone that you secretly hoped they'd talk about to others?",
+        "intensity": 6,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q086",
+        "text": "What's a phase you went through that your current friends have no idea about and would genuinely not believe?",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q087",
+        "text": "What's the most embarrassing thing you ever did to look cooler in front of someone you'd just met that completely backfired?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q088",
+        "text": "What's one thing you secretly judged your partner for wanting before you two got together that you now completely understand?",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q089",
+        "text": "What's a compliment you've rehearsed giving someone in this room for months and still haven't delivered?",
+        "intensity": 6,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q090",
+        "text": "What's the most aggressively average thing about you that you've secretly decided is actually your whole personality?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q091",
+        "text": "What's a life decision you made purely to have a better story to tell later, and did it even work?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q092",
+        "text": "What's something your partner is genuinely proud of that you find privately, mildly, a little boring to hear about?",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q093",
+        "text": "What's something you're absolutely convinced you'd be famous for if you'd just started five years earlier?",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q094",
+        "text": "What's a money habit you have that you know is objectively chaotic but refuse to change?",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "truth-q095",
+        "text": "What's a strongly held opinion about how other people should live that you have zero personal experience to back up?",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "truth-q096",
+        "text": "What's something your partner does for you without being asked that you've never once acknowledged out loud?",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "truth-q097",
+        "text": "What's the earliest memory you have of feeling like you genuinely didn't fit, and where were you?",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q098",
+        "text": "What's a wildly specific thing you are unironically, unjustifiably better at than almost every person you've ever met?",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "truth-q099",
+        "text": "What's a version of kindness someone showed you as a kid that you didn't recognize as kindness until years later?",
+        "intensity": 6,
+        "audience": "deep"
+      },
+      {
+        "id": "truth-q100",
+        "text": "What's something you're privately competitive about that has no stakes, no audience, and absolutely no reason to matter this much?",
+        "intensity": 4,
+        "audience": "party"
+      }
+    ],
+    "dare": [
+      {
+        "id": "dare-q001",
+        "text": "Text someone in this room's contact list 'your name came up tonight' and show everyone the reply.",
+        "intensity": 8,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q002",
+        "text": "Send a voice note to your last three contacts saying 'I've been thinking about you.' No explanation.",
+        "intensity": 10,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q003",
+        "text": "Let the group write a caption for your most recent Instagram photo and post it for one hour.",
+        "intensity": 8,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q004",
+        "text": "Show everyone your camera roll from exactly one year ago. No deleting before you hand the phone over.",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q005",
+        "text": "Read the last voice note you sent out loud in a dramatically different accent. Everyone listens.",
+        "intensity": 4,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q006",
+        "text": "Stand up and give a 30-second best man or maid of honor speech about the person to your right.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q007",
+        "text": "Write a two-sentence apology to someone you've wronged and read it to the group. You don't have to say who it's for.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q008",
+        "text": "Search your name in your own messages and read the first result you find out loud.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q009",
+        "text": "Let your partner read the last five things you searched on your phone and react in real time.",
+        "intensity": 10,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q010",
+        "text": "Tell the group something you've been putting off confronting. Then say one concrete step you'll actually take.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q011",
+        "text": "Walk up to a mirror, look yourself in the eye, and say one thing you actually need to hear right now.",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q012",
+        "text": "Go through your most-used emojis and explain the story behind each of the top five. No skipping.",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q013",
+        "text": "Pick someone in the room and roast them in exactly three sentences. They're not allowed to respond for sixty seconds.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q014",
+        "text": "Narrate everything the person across from you does for the next two minutes like a nature documentary. Do not break character.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q015",
+        "text": "Draw a quick portrait of how you see yourself right now — not how you look, how you feel. Show it and explain one detail.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q016",
+        "text": "Assign everyone in the room a job based purely on their personality. Say the job and the reason out loud. No softening it.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q017",
+        "text": "Compliment every person in the room in a way that sounds like an insult. They decide if it lands as sweet or savage.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q018",
+        "text": "Pitch yourself as a contestant on a reality dating show. Group asks you three casting questions. No hesitation allowed.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q019",
+        "text": "Direct your partner in a 30-second silent film scene from your relationship. They act. You shout stage directions.",
+        "intensity": 4,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q020",
+        "text": "Debate, with full conviction, why a completely mundane object is the greatest invention in human history. One minute. Go.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q021",
+        "text": "Conduct a fake job interview with the person to your left. You're hiring for a role that exposes their biggest flaw. Keep it professional.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q022",
+        "text": "Narrate a fake movie trailer for a film about the most embarrassing thing that's ever happened to you. Title it. Cast it.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q023",
+        "text": "Stand up and deliver a one-minute TED Talk about the single belief you hold that most people in this room would disagree with.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q024",
+        "text": "Charades — but you can only use facial expressions. No body movement. Group has 60 seconds to guess the movie you're given.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q025",
+        "text": "Negotiate with your partner for one real-life privilege — a free pass, a favor, anything. Make your case out loud. Group decides if you deserve it.",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q026",
+        "text": "Improvise a 60-second cooking show segment using only items visible in this room as fake ingredients. Name the dish.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q027",
+        "text": "Do your best impression of how each person in this room would handle being caught in a lie. Act each one out. No names — let them guess.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q028",
+        "text": "Recreate your first argument as a full dramatic scene — you play your partner, they play you. Group judges who's more accurate.",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q029",
+        "text": "Host a 90-second fake game show where you quiz the group on made-up rules to a sport you invent on the spot right now.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q030",
+        "text": "Give a eulogy for a personality trait you used to have that you've outgrown. Be sincere. Group can only applaud at the end.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q031",
+        "text": "Draw a Venn diagram on paper showing what you and the person across from you have in common versus where you completely differ. Present it.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q032",
+        "text": "Stand up. For 60 seconds, speak only in compliments — directed at yourself. Group is not allowed to laugh or react until you're done.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q033",
+        "text": "Announce to the group your most embarrassing talent. Then perform it. No miming — actual performance.",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q034",
+        "text": "Guess what everyone in this room had for breakfast today. Say each guess out loud with full confidence.",
+        "intensity": 2,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q035",
+        "text": "Re-enact how you think your partner acts when you're not around. Thirty seconds. They score your accuracy.",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q036",
+        "text": "Confess a small, petty thing you've been silently judging someone in this room for. One sentence. Own it.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q037",
+        "text": "Describe the version of yourself you were five years ago as if introducing a stranger to the group. Be honest.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q038",
+        "text": "Using only sound effects — no words — act out the last time you cried. Group guesses what happened.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q039",
+        "text": "Pick one person in the room and pitch a conspiracy theory about their daily routine. Make it convincing. They cannot deny anything.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q040",
+        "text": "Recreate your first impression of your partner — the exact vibe, posture, expression. They guess what you were actually thinking.",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q041",
+        "text": "Stand up and deliver a formal acceptance speech for an award the group invents for you right now based on your personality.",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q042",
+        "text": "Invent a word that doesn't exist, define it live, use it in three sentences. Group votes whether it should be real.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q043",
+        "text": "Mime the emotion you feel most often but never talk about. Hold the expression for thirty seconds. No explaining after.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q044",
+        "text": "Improvise a 60-second courtroom closing argument defending the most questionable decision you made this year.",
+        "intensity": 8,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q045",
+        "text": "Without using any names, describe everyone in this room as a movie genre. Say the genre and one sentence explaining why.",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q046",
+        "text": "Teach your partner something — anything — in exactly 60 seconds as if they know absolutely nothing. Group scores your teaching.",
+        "intensity": 4,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q047",
+        "text": "Pick any two people in the room and argue, with evidence, that they are secretly the same person. One minute. No backing down.",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q048",
+        "text": "Name the person in this room you've underestimated. Tell them one specific thing you now see that you missed before.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q049",
+        "text": "Freestyle rap for 30 seconds about the person to your right using only facts you actually know about them. No compliments allowed.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q050",
+        "text": "Do a live weather forecast for the emotional climate of this room right now. Point at people. Use technical terms.",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q051",
+        "text": "Propose a fake constitutional amendment that would fix your biggest relationship pet peeve. Read it formally. Your partner may not object.",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q052",
+        "text": "Stand up. Without naming anyone, act out the moment in your life you most wish you'd had a witness for. No explanation after.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q053",
+        "text": "You have 60 seconds to convince the group that a completely random number — chosen right now by the group — is secretly meaningful. Go.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q054",
+        "text": "Translate the last awkward silence in this room into a full 30-second dramatic scene. Act both parts. Give it a title.",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q055",
+        "text": "Invent a board game on the spot. Name it, explain the rules in 30 seconds, and demonstrate one turn using people in this room.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q056",
+        "text": "Deliver a 45-second graduation speech to your past self. Pick the exact age. Group cannot laugh until you finish.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q057",
+        "text": "Choreograph and perform a 30-second interpretive dance representing the group dynamic tonight. No music needed. Full commitment required.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q058",
+        "text": "Argue — with complete conviction — that your worst habit is actually your most attractive quality. Partner is the judge.",
+        "intensity": 8,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q059",
+        "text": "Using only your body, spell out a word chosen secretly by the group. No clues. You have 45 seconds. Group guesses.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q060",
+        "text": "Pick the person you know least well here. Describe their life story as you imagine it — confidently, with detail. They score your accuracy.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q061",
+        "text": "Describe the version of yourself you're most afraid other people already see. One minute. No softening it.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q062",
+        "text": "Invent a signature cocktail named after your own personality. Describe every ingredient and why it belongs. Group rates the concept.",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q063",
+        "text": "Lip sync a song chosen by the group with zero warning. Full performance — movement, expression, commitment. Group scores you out of ten.",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q064",
+        "text": "Everyone writes down one word. You have 90 seconds to weave all of them into a single coherent bedtime story. Tell it out loud.",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q065",
+        "text": "You are a news anchor. Deliver a 60-second breaking news segment about something trivial that actually happened in this room tonight.",
+        "intensity": 2,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q066",
+        "text": "Stand up and reenact — in real time — how you physically behave when you have a crush on someone. No narrating. Just show it.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q067",
+        "text": "Pick two people in the room and officiate a fake 45-second wedding between their worst personality traits. Name the traits. Marry them properly.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q068",
+        "text": "Write your own two-sentence obituary right now. Read it aloud. Group is not allowed to comment for fifteen seconds after.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q069",
+        "text": "Describe your relationship as a genre of film you'd never watch voluntarily. Name the film, the rating, and the one-line synopsis. Your partner reacts.",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q070",
+        "text": "Choose a person in the room. Draw their portrait using only your non-dominant hand. Sixty seconds. Show everyone without apologizing for it.",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q071",
+        "text": "Stand in front of the group and pitch yourself as a brand. Name, tagline, target market, one weakness. Full deck. Thirty seconds. Go.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q072",
+        "text": "Everyone secretly votes on an animal that represents your personality. You must guess what animal you got before they reveal it.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q073",
+        "text": "Recite the last compliment someone gave you that you didn't believe. Say it again — this time like you actually do.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q074",
+        "text": "Improvise a 60-second infomercial for the most annoying habit of the person to your left. Sell it as a lifestyle product. Name it.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q075",
+        "text": "The group gives you a celebrity, an accent, and a topic. You have 45 seconds to deliver a monologue combining all three. No warm-up.",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q076",
+        "text": "Make sustained eye contact with one person and, without smiling, slowly explain why you find them intimidating. They cannot look away.",
+        "intensity": 10,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q077",
+        "text": "Walk around the room and silently assign everyone a superhero power based on their biggest flaw. Announce all of them at once at the end.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q078",
+        "text": "Tell the group a story about yourself using three true sentences and one lie. Everyone guesses which is false. You reveal nothing until all votes are in.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q079",
+        "text": "Using only your voice — no words, just sounds — perform the opening scene of a horror movie. Group votes thumbs up or down after thirty seconds.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q080",
+        "text": "You have ninety seconds to write a personal ad for yourself — flaws listed first, strengths last. Read it exactly as written. No edits allowed.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q081",
+        "text": "Group secretly picks a famous villain. You must defend that villain's choices for sixty seconds with complete moral conviction. Group cross-examines you.",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q082",
+        "text": "Pick any object in this room. You have 45 seconds to teach the group a fake martial art based on it. Name the style. Demonstrate three moves.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q083",
+        "text": "Stand up. Point to someone. Say one thing you've never said to them out loud — but only if you mean it completely. No softening allowed.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q084",
+        "text": "Without speaking, use only props in this room to build a physical monument to your relationship's biggest inside joke. Sixty seconds. Partner guesses what it is.",
+        "intensity": 4,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q085",
+        "text": "Pick one person. Guess their most-used phrase, their resting face, and their walk — then demonstrate all three back-to-back. They score each one.",
+        "intensity": 6,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q086",
+        "text": "Stand up. Using only furniture and people as props, build a physical timeline of the biggest decision you've ever made. Walk the group through it.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q087",
+        "text": "Cold-pitch a start-up to the group in sixty seconds. The product must solve a problem that only exists in this specific friend group. Take questions.",
+        "intensity": 4,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q088",
+        "text": "Without coaching your partner, mime a scene from your first date. They narrate what they think is happening in real time.",
+        "intensity": 4,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q089",
+        "text": "Face the room and recite every compliment you've ever received that you genuinely believed. Keep going until you run out.",
+        "intensity": 8,
+        "audience": "awkward"
+      },
+      {
+        "id": "dare-q090",
+        "text": "Guess the most embarrassing thing each person here has Googled in the last week. One guess per person. Say them all at once.",
+        "intensity": 6,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q091",
+        "text": "Write one sentence on paper that you've never said to anyone. Fold it. Group decides — you read it aloud or burn it unread.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q092",
+        "text": "Dub a silent 30-second scene that the group acts out in real time. You provide all voices and sound effects. No script. Go.",
+        "intensity": 2,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q093",
+        "text": "Sell an imaginary product to the group using only mime. No words, no sounds. Group has 45 seconds to guess what you're selling.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q094",
+        "text": "Stand up. Shake hands with every person in the room and say one word — only one — that you think defines them. No repeats.",
+        "intensity": 8,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q095",
+        "text": "Announce a fake recall of a household product. Deliver the safety warning with full government-official energy. Group asks follow-up questions.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q096",
+        "text": "Walk to the door. Pretend you're leaving this friendship group for good. Give a ten-second goodbye. Then sit back down and say nothing.",
+        "intensity": 10,
+        "audience": "deep"
+      },
+      {
+        "id": "dare-q097",
+        "text": "Invent a handshake-based secret society on the spot. Recruit one member, teach the ritual, name the society. Group decides if they'd join.",
+        "intensity": 4,
+        "audience": "party"
+      },
+      {
+        "id": "dare-q098",
+        "text": "Translate your relationship into a two-sentence IKEA instruction manual. Read it aloud. Your partner rates assembly difficulty out of five.",
+        "intensity": 6,
+        "audience": "couples"
+      },
+      {
+        "id": "dare-q099",
+        "text": "Stand up and present a thirty-second argument for why you specifically should survive a zombie apocalypse. Group votes immediately after. No rebuttals.",
+        "intensity": 6,
+        "audience": "friends"
+      },
+      {
+        "id": "dare-q100",
+        "text": "Auction off an invisible object to the room. Name it, set a starting bid, and hype it for 45 seconds. Highest bidder must act thrilled.",
+        "intensity": 4,
+        "audience": "party"
+      }
+    ]
+  },
+  "wouldYouRather": [
+    {
+      "id": "wyr-001",
+      "optionA": "Have your texts read out loud to the group",
+      "optionB": "Have your camera roll scrolled through for a full minute",
+      "intensity": 6,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-002",
+      "optionA": "Always be 20 minutes late",
+      "optionB": "Always be an hour early",
+      "intensity": 1,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-003",
+      "optionA": "Find out what your friends really think of you",
+      "optionB": "Never know but always wonder",
+      "intensity": 7,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-004",
+      "optionA": "Be the funniest person in the group",
+      "optionB": "Be the most trusted person in the group",
+      "intensity": 2,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-005",
+      "optionA": "Lose your phone for a week",
+      "optionB": "Lose your wallet for a week",
+      "intensity": 3,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-006",
+      "optionA": "Get exposed for a lie in front of everyone here",
+      "optionB": "Have to admit your biggest insecurity right now",
+      "intensity": 8,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-007",
+      "optionA": "Date your partner's best friend's type",
+      "optionB": "Date someone your friends all hate",
+      "intensity": 5,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-008",
+      "optionA": "Know exactly when your relationship will end",
+      "optionB": "Know exactly how it ends",
+      "intensity": 9,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-009",
+      "optionA": "Have your partner read your old messages to an ex",
+      "optionB": "Read your partner's",
+      "intensity": 8,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-010",
+      "optionA": "Plan every date for the next year",
+      "optionB": "Let your partner plan all of them",
+      "intensity": 2,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-011",
+      "optionA": "Forget every fight you've ever had",
+      "optionB": "Remember every single one in full detail",
+      "intensity": 4,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-012",
+      "optionA": "Give a toast with zero prep",
+      "optionB": "Be the one everyone toasts about",
+      "intensity": 3,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-013",
+      "optionA": "Be the designated photographer all night",
+      "optionB": "Be in every single photo whether you like it or not",
+      "intensity": 2,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-014",
+      "optionA": "Have the whole group know your search history from tonight",
+      "optionB": "Have one person know your search history from this year",
+      "intensity": 7,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-015",
+      "optionA": "Be banned from one bar forever",
+      "optionB": "Be banned from one friend's house forever",
+      "intensity": 4,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-016",
+      "optionA": "Get free drinks all night but have to wear a sash",
+      "optionB": "Pay for everything but skip the sash",
+      "intensity": 1,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-017",
+      "optionA": "Have everyone here read your diary from age 15",
+      "optionB": "Have everyone here read your texts from last week",
+      "intensity": 9,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-018",
+      "optionA": "Know what people say about you when you leave the room",
+      "optionB": "Know what they say about you online",
+      "intensity": 6,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-019",
+      "optionA": "Give up your phone for a month",
+      "optionB": "Give up your closest friend group for a month",
+      "intensity": 8,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-020",
+      "optionA": "Always have to say what you're thinking",
+      "optionB": "Never be able to say what you're thinking",
+      "intensity": 5,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-021",
+      "optionA": "Accidentally call your boss 'babe'",
+      "optionB": "Accidentally call your partner by your boss's name",
+      "intensity": 3,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-022",
+      "optionA": "Trip in front of your crush",
+      "optionB": "Get caught talking about your crush",
+      "intensity": 2,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-023",
+      "optionA": "Have your mic stay on during a private conversation",
+      "optionB": "Send a text to the wrong group chat",
+      "intensity": 4,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-024",
+      "optionA": "Wave back at someone who wasn't waving at you",
+      "optionB": "Not wave back at someone who was",
+      "intensity": 1,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-025",
+      "optionA": "Get caught singing alone in the car",
+      "optionB": "Get caught talking to yourself in the mirror",
+      "intensity": 2,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-026",
+      "optionA": "Have one friend roast you for ten minutes straight",
+      "optionB": "Roast one friend for ten minutes straight in front of everyone",
+      "intensity": 5,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-027",
+      "optionA": "Find out your nickname behind your back",
+      "optionB": "Keep wondering forever",
+      "intensity": 4,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-028",
+      "optionA": "Have this group plan your birthday",
+      "optionB": "Plan all of theirs",
+      "intensity": 1,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-029",
+      "optionA": "Tell your friend group a secret you've never told anyone",
+      "optionB": "Keep carrying it alone",
+      "intensity": 7,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-030",
+      "optionA": "Be the friend who always picks the restaurant",
+      "optionB": "Be the friend who always picks the playlist",
+      "intensity": 1,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-031",
+      "optionA": "Have your partner pick your outfit for a month",
+      "optionB": "Pick theirs for a month",
+      "intensity": 2,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-032",
+      "optionA": "Find out your partner's exact rating of you out of 10",
+      "optionB": "Never ask and never know",
+      "intensity": 6,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-033",
+      "optionA": "Have one big blowout fight and move on",
+      "optionB": "Have small tension that never fully goes away",
+      "intensity": 5,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-034",
+      "optionA": "Share a phone with your partner for a week",
+      "optionB": "Share a bank account for a week",
+      "intensity": 3,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-035",
+      "optionA": "Get caught checking your ex's profile",
+      "optionB": "Get caught by your ex checking yours",
+      "intensity": 6,
+      "audience": "couples"
+    },
+    {
+      "id": "wyr-036",
+      "optionA": "Host every party from now on",
+      "optionB": "Never have to host but never pick the plan either",
+      "intensity": 1,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-037",
+      "optionA": "Be everyone's designated driver tonight",
+      "optionB": "Be everyone's photographer tonight",
+      "intensity": 1,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-038",
+      "optionA": "Lose the group chat for a year",
+      "optionB": "Be added to every group chat forever, including the chaotic ones",
+      "intensity": 2,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-039",
+      "optionA": "Have to dance every single song tonight",
+      "optionB": "Not be allowed to dance at all",
+      "intensity": 2,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-040",
+      "optionA": "Find out who in this group has talked behind your back",
+      "optionB": "Never find out and stay blissfully unaware",
+      "intensity": 8,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-041",
+      "optionA": "Relive your most embarrassing year",
+      "optionB": "Forget your best year completely",
+      "intensity": 6,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-042",
+      "optionA": "Admit the real reason you ended your last friendship",
+      "optionB": "Admit the real reason you ended your last relationship",
+      "intensity": 8,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-043",
+      "optionA": "Know how every person here actually feels about you right now",
+      "optionB": "Know how you'll feel about all of them in five years",
+      "intensity": 7,
+      "audience": "deep"
+    },
+    {
+      "id": "wyr-044",
+      "optionA": "Have your search history shown on a big screen",
+      "optionB": "Have your location history shown on a big screen",
+      "intensity": 9,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-045",
+      "optionA": "Accidentally like a random old photo while stalking someone's profile",
+      "optionB": "Get caught mid-stalk by the person themselves",
+      "intensity": 5,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-046",
+      "optionA": "Have spinach in your teeth through an entire first date",
+      "optionB": "Call someone by the wrong name on a first date",
+      "intensity": 3,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-047",
+      "optionA": "Send a risky text and get left on read",
+      "optionB": "Get a risky text and not know how to respond",
+      "intensity": 4,
+      "audience": "awkward"
+    },
+    {
+      "id": "wyr-048",
+      "optionA": "Be the first one to fall asleep at every party",
+      "optionB": "Be the one who has to wake everyone else up",
+      "intensity": 1,
+      "audience": "party"
+    },
+    {
+      "id": "wyr-049",
+      "optionA": "Get matched with your friend's ex on an app",
+      "optionB": "Get matched with your ex's friend",
+      "intensity": 5,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-050",
+      "optionA": "Have one friend keep every secret you tell them",
+      "optionB": "Have the whole group know everything but never judge you for it",
+      "intensity": 6,
+      "audience": "friends"
+    },
+    {
+      "id": "wyr-051",
+      "optionA": "Be told the brutally honest truth about your flaws right now",
+      "optionB": "Never be told, even if everyone already knows",
+      "intensity": 9,
+      "audience": "deep"
+    }
+  ],
+  "neverHaveIEver": [
+    {
+      "id": "nhie-001",
+      "text": "Never have I ever pretended to know a song I'd never heard before",
+      "intensity": 1,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-002",
+      "text": "Never have I ever shown up to the wrong event entirely",
+      "intensity": 2,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-003",
+      "text": "Never have I ever lied about reading something to sound smarter",
+      "intensity": 2,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-004",
+      "text": "Never have I ever talked about someone right before they walked in",
+      "intensity": 4,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-005",
+      "text": "Never have I ever pretended to like a gift I actually hated",
+      "intensity": 1,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-006",
+      "text": "Never have I ever ditched plans because something better came up",
+      "intensity": 3,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-007",
+      "text": "Never have I ever forgotten a close friend's birthday",
+      "intensity": 3,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-008",
+      "text": "Never have I ever spread a rumor I knew wasn't fully true",
+      "intensity": 6,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-009",
+      "text": "Never have I ever been the reason a friend group fell apart",
+      "intensity": 8,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-010",
+      "text": "Never have I ever read a friend's messages without asking",
+      "intensity": 6,
+      "audience": "friends"
+    },
+    {
+      "id": "nhie-011",
+      "text": "Never have I ever stalked an ex's new partner's entire profile",
+      "intensity": 5,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-012",
+      "text": "Never have I ever lied about where I was to my partner",
+      "intensity": 7,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-013",
+      "text": "Never have I ever compared my partner to an ex out loud",
+      "intensity": 6,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-014",
+      "text": "Never have I ever gone through my partner's phone without telling them",
+      "intensity": 7,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-015",
+      "text": "Never have I ever faked being asleep to avoid a conversation",
+      "intensity": 3,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-016",
+      "text": "Never have I ever stayed friends with someone just because my partner liked them",
+      "intensity": 3,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-017",
+      "text": "Never have I ever said 'I love you' before I actually meant it",
+      "intensity": 6,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-018",
+      "text": "Never have I ever kept a group chat secret from my partner",
+      "intensity": 5,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-019",
+      "text": "Never have I ever cried during an argument just to end it faster",
+      "intensity": 5,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-020",
+      "text": "Never have I ever broken up with someone over text",
+      "intensity": 4,
+      "audience": "couples"
+    },
+    {
+      "id": "nhie-021",
+      "text": "Never have I ever danced on a table at a party",
+      "intensity": 2,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-022",
+      "text": "Never have I ever lost an item of clothing on a night out",
+      "intensity": 3,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-023",
+      "text": "Never have I ever made out with someone I just met that night",
+      "intensity": 5,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-024",
+      "text": "Never have I ever woken up somewhere I didn't recognize",
+      "intensity": 4,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-025",
+      "text": "Never have I ever been the loudest person at a party and regretted it the next day",
+      "intensity": 2,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-026",
+      "text": "Never have I ever crashed a party I wasn't invited to",
+      "intensity": 3,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-027",
+      "text": "Never have I ever gotten someone else in trouble to cover for myself",
+      "intensity": 6,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-028",
+      "text": "Never have I ever sent a drunk text I deeply regretted",
+      "intensity": 4,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-029",
+      "text": "Never have I ever thrown up at someone else's house",
+      "intensity": 3,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-030",
+      "text": "Never have I ever started a rumor just to see if it would come back to me",
+      "intensity": 5,
+      "audience": "party"
+    },
+    {
+      "id": "nhie-031",
+      "text": "Never have I ever pretended to be okay when I really wasn't",
+      "intensity": 5,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-032",
+      "text": "Never have I ever stayed in a friendship I knew was bad for me",
+      "intensity": 6,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-033",
+      "text": "Never have I ever felt jealous of someone close to me and hid it",
+      "intensity": 6,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-034",
+      "text": "Never have I ever lied to make myself look better in a hard moment",
+      "intensity": 7,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-035",
+      "text": "Never have I ever resented someone for something they don't even know about",
+      "intensity": 7,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-036",
+      "text": "Never have I ever cut someone off without ever telling them why",
+      "intensity": 6,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-037",
+      "text": "Never have I ever cried alone in a bathroom at an event",
+      "intensity": 5,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-038",
+      "text": "Never have I ever questioned whether someone actually liked me or just my attention",
+      "intensity": 6,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-039",
+      "text": "Never have I ever gone quiet about something that really hurt me",
+      "intensity": 6,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-040",
+      "text": "Never have I ever felt like the outsider in my own friend group",
+      "intensity": 7,
+      "audience": "deep"
+    },
+    {
+      "id": "nhie-041",
+      "text": "Never have I ever called the wrong name during an important moment",
+      "intensity": 4,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-042",
+      "text": "Never have I ever sent a text complaining about someone to that same someone",
+      "intensity": 5,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-043",
+      "text": "Never have I ever shown up way overdressed or underdressed to an event",
+      "intensity": 1,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-044",
+      "text": "Never have I ever liked a photo while deep stalking someone's profile by accident",
+      "intensity": 4,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-045",
+      "text": "Never have I ever walked into a glass door in public",
+      "intensity": 1,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-046",
+      "text": "Never have I ever pretended to recognize someone I had no memory of",
+      "intensity": 2,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-047",
+      "text": "Never have I ever replied 'you too' when someone didn't say anything that warranted it",
+      "intensity": 1,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-048",
+      "text": "Never have I ever gotten caught talking about someone over a video call",
+      "intensity": 5,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-049",
+      "text": "Never have I ever sent a voice note and immediately regretted every word",
+      "intensity": 3,
+      "audience": "awkward"
+    },
+    {
+      "id": "nhie-050",
+      "text": "Never have I ever been caught checking my phone mid conversation and lied about it",
+      "intensity": 2,
+      "audience": "awkward"
+    }
+  ]
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "q001",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "Which person in this group have you vented about the most to someone outside this group?",
+    "angle": "friendship loyalty exposed",
+    "emotion": "friendship",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q002",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's something your partner does in public that makes you cringe but you've never said anything about?",
+    "angle": "silent relationship grievance",
+    "emotion": "relationship",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q003",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "Which friend in this group do you think is the most likely to betray someone for personal gain?",
+    "angle": "trust grenade dropped",
+    "emotion": "friendship",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q004",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's a habit or trait your ex had that you secretly miss, and your partner doesn't know?",
+    "angle": "ex comparison confession",
+    "emotion": "relationship",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q005",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "Have you ever pretended not to see a notification from someone because you just didn't want to deal with them?",
+    "angle": "ghost without committing",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q006",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a red flag you noticed about someone in this group when you first met them that turned out to be true?",
+    "angle": "first impression was right",
+    "emotion": "friendship",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q007",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "When did you last feel truly alone even though your partner was right there with you?",
+    "angle": "loneliness inside the relationship",
+    "emotion": "relationship",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q008",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the pettiest reason you've ever ended or distanced yourself from a friendship?",
+    "angle": "shamefully small deal-breaker",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q009",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a decision you made for someone else's comfort that quietly cost you something you can't get back?",
+    "angle": "sacrifice you buried",
+    "emotion": "guilt",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q010",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most embarrassing thing you've googled about yourself to see what other people might find?",
+    "angle": "paranoid self-surveillance",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q011",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "Who here have you mentally rehearsed a difficult conversation with but never actually had it?",
+    "angle": "unsent confrontation exposed",
+    "emotion": "awkward",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q012",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's a topic you and your partner avoid so consistently that you've both just silently agreed it doesn't exist?",
+    "angle": "the elephant they built together",
+    "emotion": "relationship",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q013",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's something you're genuinely jealous of about someone in this room that you'd never say to their face?",
+    "angle": "jealousy wearing a smile",
+    "emotion": "jealousy",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q014",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What childhood version of yourself would be most disappointed by who you became?",
+    "angle": "identity drift exposed",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q015",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's the biggest lie you've told yourself about why a past relationship ended?",
+    "angle": "self-deception cracked open",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q016",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "If your parents could see exactly how you turned out, what part would genuinely surprise them most?",
+    "angle": "family expectation gap",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q017",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a first impression you made on someone in this room that you wish you could redo?",
+    "angle": "cringe origin story",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q018",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's one thing you genuinely admire about your partner that you've never said directly to their face?",
+    "angle": "withheld admiration surfaces",
+    "emotion": "relationship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q019",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a moral line you were certain you'd never cross that you've since crossed, even slightly?",
+    "angle": "values quietly compromised",
+    "emotion": "guilt",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q020",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's the most embarrassing thing a sibling or family member has done that you've pretended not to know about?",
+    "angle": "family chaos disowned",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q021",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a failure you've had that, looking back, you're quietly glad happened?",
+    "angle": "failure reframed honestly",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q022",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's something about your own appearance that you're self-conscious about that you've never told anyone?",
+    "angle": "private insecurity named",
+    "emotion": "embarrassment",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q023",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's a small personal milestone you hit recently that you celebrated completely alone because it felt too small to share?",
+    "angle": "quiet victory, zero applause",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q024",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's something your sibling is genuinely better at than you that you've never admitted out loud?",
+    "angle": "sibling rivalry confessed",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q025",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a job interview you completely bombed that you've never told the full truth about to anyone?",
+    "angle": "professional humiliation buried",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q026",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's something you've watched a friend go through where you secretly thought you'd have handled it better?",
+    "angle": "silent superiority exposed",
+    "emotion": "guilty",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q027",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most dramatic thing you believed as a child that you're embarrassed you ever thought was real?",
+    "angle": "childhood logic was unhinged",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q028",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's something a parent or guardian did that you swore you'd never do, and you've now done it?",
+    "angle": "became what you feared",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q029",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a social situation you completely froze in that still makes you rehearse what you should have said?",
+    "angle": "anxiety staircase you replay",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q030",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most impulsive purchase you've ever made and what extremely flimsy reason did you tell yourself justified it?",
+    "angle": "money logic was chaos",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q031",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a completely irrational superstition or ritual you still follow as an adult?",
+    "angle": "absurd private logic",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q032",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a compliment you received once from a stranger that shaped how you see yourself more than anything a friend ever said?",
+    "angle": "random validation still winning",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q033",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's something you pretended to understand for years before quietly googling it alone one night?",
+    "angle": "long-con ignorance exposed",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q034",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a moment from childhood that felt totally normal then but now gives you second-hand embarrassment about yourself?",
+    "angle": "past self retrospective cringe",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q035",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's the most honest thing you've ever said to yourself in a mirror that you'd never say in a room full of people?",
+    "angle": "private self-talk goes public",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q036",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's something you're genuinely afraid of that you always laugh off when it comes up in conversation?",
+    "angle": "fear hidden behind humor",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q037",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most confident you've ever felt in your life and why doesn't that version of you show up anymore?",
+    "angle": "peak confidence lost somewhere",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q038",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's a goal you had before this relationship that you've deprioritized so gradually you barely noticed it disappear?",
+    "angle": "slow self-erasure in love",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q039",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a totally legal, totally harmless thing you do alone that you would immediately deny if someone walked in?",
+    "angle": "harmless shame still strong",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q040",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the worst job you ever had and what's the most unhinged thing you did while working it?",
+    "angle": "workplace chaos unearthed",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q041",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a version of an apology you received that you accepted out loud but never actually forgave?",
+    "angle": "unresolved forgiveness quietly held",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q042",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most embarrassing thing you've ever done at a family gathering that the whole family remembers but you pretend never happened?",
+    "angle": "family legend you hate",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q043",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a strongly held belief you had at 16 that you'd be most embarrassed to defend in front of this group right now?",
+    "angle": "teenage conviction exposed today",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q044",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a sacrifice someone made for you that you've never fully acknowledged to them, and probably never will?",
+    "angle": "unspoken debt quietly carried",
+    "emotion": "guilt",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q045",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most confidently wrong thing you once argued with someone about before silently googling it and discovering you were completely wrong?",
+    "angle": "confident ignorance exposed later",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q046",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's the most embarrassing way you've mispronounced a word for years before someone finally corrected you in public?",
+    "angle": "vocabulary betrayal long overdue",
+    "emotion": "embarrassment",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q047",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a trend, aesthetic, or era of culture you secretly miss but would never publicly admit nostalgia for?",
+    "angle": "guilty nostalgia deeply unfashionable",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q048",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most creative excuse you've ever invented to get out of something, and did it actually work?",
+    "angle": "elaborate escape artistry revealed",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q049",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's something about your personality you've been told is a strength your whole life that you've recently started to think might actually be a flaw?",
+    "angle": "reframing lifelong identity trait",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q050",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a social rule everyone else seems to understand instinctively that you've had to consciously learn and still sometimes get wrong?",
+    "angle": "unspoken norm secretly studied",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q051",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's something you genuinely believed about love before this relationship that this relationship has quietly proved wrong?",
+    "angle": "old love theory dismantled",
+    "emotion": "relationship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q052",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's the most selfish reason you've ever stayed in a friendship that had nothing to do with actually liking the person?",
+    "angle": "transactional friendship exposed",
+    "emotion": "guilt",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q053",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a completely normal thing that other people do effortlessly that genuinely stresses you out every single time?",
+    "angle": "secret ordinary phobia",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q054",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most embarrassing thing you still do that is objectively something a ten-year-old would do?",
+    "angle": "adult behaving like child",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q055",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a moment you said nothing when someone needed you to speak up, and you've never stopped thinking about it?",
+    "angle": "silence that still haunts",
+    "emotion": "guilt",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q056",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a room in your childhood home that you still dream about and can't explain why?",
+    "angle": "memory that won't leave",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q057",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most absurd rule your family had growing up that you only realized was weird as an adult?",
+    "angle": "family logic exposed",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q058",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a personal value you lecture others about that you've privately compromised on more than once?",
+    "angle": "hypocrisy you own",
+    "emotion": "controversial",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q059",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a strongly held food opinion you have that you know would genuinely offend at least one person in this room?",
+    "angle": "harmless take turns spicy",
+    "emotion": "controversial",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q060",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's the most aggressively normal life choice you've made that you secretly resent yourself for not fighting harder against?",
+    "angle": "safe path self-betrayal",
+    "emotion": "guilt",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q061",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a personality trait you copied from someone in this room without ever telling them?",
+    "angle": "silent admiration theft",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q062",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's one thing you know is true about who you are that you've never let a single person in your life fully see?",
+    "angle": "the hidden real self",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q063",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a friend group you were part of before this one that you left without ever giving the real reason why?",
+    "angle": "quiet exit, secret motive",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q064",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a compliment you gave someone that was actually a dig and they took it completely straight?",
+    "angle": "sneaky compliment exposed",
+    "emotion": "guilt",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q065",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the biggest gap between how competent you appear at work and how you actually feel doing the job?",
+    "angle": "professional impostor syndrome",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q066",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a moment you chose comfort over courage and still wonder who you'd be if you'd gone the other way?",
+    "angle": "road not taken regret",
+    "emotion": "confession",
+    "intensity": 5,
+    "safety": "clean"
+  },
+  {
+    "id": "q067",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's something you own that reveals a version of yourself you'd rather nobody in this room picture?",
+    "angle": "possession betrays persona",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q068",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a completely made-up skill or hobby you claimed to have on a first impression that you then had to secretly maintain?",
+    "angle": "fake persona accidentally permanent",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q069",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's the most money you've spent on yourself without telling your partner, and what story did you tell instead?",
+    "angle": "financial secret quietly kept",
+    "emotion": "guilt",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q070",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a genuinely weird thing you do before a big moment — job interview, date, performance — that you've never admitted to anyone?",
+    "angle": "pre-game ritual exposed",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q071",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a moment someone believed in you more than you believed in yourself, and you've never gone back to tell them they were right?",
+    "angle": "undelivered gratitude long overdue",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q072",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a career you'd secretly drop everything for tomorrow if money wasn't a factor, and why haven't you said that out loud before?",
+    "angle": "buried ambition suddenly visible",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q073",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's the most unfair advantage you've had in life that you rarely bring up because acknowledging it feels complicated?",
+    "angle": "privilege quietly admitted",
+    "emotion": "controversial",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q074",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a compliment you fish for constantly but would be mortified if someone called you out for fishing?",
+    "angle": "caught needing validation",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q075",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's a small daily decision your partner makes that you've been silently overriding your own preference for without them knowing?",
+    "angle": "invisible surrender exposed",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q076",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's the most impressive-sounding thing on your resumé that you could not actually do again if someone tested you right now?",
+    "angle": "professional bluff exposed",
+    "emotion": "embarrassment",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q077",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a food, movie, or song that everyone in your life loves that you genuinely cannot stand but fake enthusiasm for?",
+    "angle": "secret taste betrayal",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q078",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's the most obvious thing about your own personality that you were the absolute last person to notice?",
+    "angle": "late self-awareness confession",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q079",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a totally harmless but deeply specific hill you would die on in an argument that makes absolutely no logical sense?",
+    "angle": "irrational conviction proudly held",
+    "emotion": "controversial",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q080",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a version of yourself you became to survive a specific period of your life that you never fully let go of?",
+    "angle": "identity outlived its purpose",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q081",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a version of success you chased for years that you finally got, then quietly realized wasn't yours to begin with?",
+    "angle": "borrowed ambition, hollow arrival",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q082",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a genuinely weird physical or mental habit you have in the first five minutes after waking up that no one has ever witnessed?",
+    "angle": "private morning chaos exposed",
+    "emotion": "awkward",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q083",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a skill or subject you were top of your class in as a kid that you have completely, embarrassingly lost?",
+    "angle": "childhood peak, adult collapse",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q084",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a version of your future self you've stopped picturing, and when exactly did you stop?",
+    "angle": "quietly grieving abandoned self",
+    "emotion": "confession",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q085",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a genuinely kind thing you've done for someone that you secretly hoped they'd talk about to others?",
+    "angle": "generosity meets ego",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q086",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a phase you went through that your current friends have no idea about and would genuinely not believe?",
+    "angle": "secret past self revealed",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q087",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most embarrassing thing you ever did to look cooler in front of someone you'd just met that completely backfired?",
+    "angle": "first impression self-sabotage",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q088",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's one thing you secretly judged your partner for wanting before you two got together that you now completely understand?",
+    "angle": "silent judgment reversed",
+    "emotion": "awkward",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q089",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a compliment you've rehearsed giving someone in this room for months and still haven't delivered?",
+    "angle": "withheld warmth finally exposed",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q090",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's the most aggressively average thing about you that you've secretly decided is actually your whole personality?",
+    "angle": "self-mythology gently demolished",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q091",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a life decision you made purely to have a better story to tell later, and did it even work?",
+    "angle": "narrative self-construction exposed",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q092",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's something your partner is genuinely proud of that you find privately, mildly, a little boring to hear about?",
+    "angle": "loving but honest quiet cringe",
+    "emotion": "awkward",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q093",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's something you're absolutely convinced you'd be famous for if you'd just started five years earlier?",
+    "angle": "delusional ambition out loud",
+    "emotion": "confession",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q094",
+    "category": "Truth",
+    "audience": "friends",
+    "question": "What's a money habit you have that you know is objectively chaotic but refuse to change?",
+    "angle": "financial self-sabotage confessed",
+    "emotion": "embarrassment",
+    "intensity": 2,
+    "safety": "clean"
+  },
+  {
+    "id": "q095",
+    "category": "Truth",
+    "audience": "awkward",
+    "question": "What's a strongly held opinion about how other people should live that you have zero personal experience to back up?",
+    "angle": "confident hypocrisy exposed",
+    "emotion": "controversial",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q096",
+    "category": "Truth",
+    "audience": "couples",
+    "question": "What's something your partner does for you without being asked that you've never once acknowledged out loud?",
+    "angle": "taken for granted moment",
+    "emotion": "relationship",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q097",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's the earliest memory you have of feeling like you genuinely didn't fit, and where were you?",
+    "angle": "childhood outsider identity",
+    "emotion": "awkward",
+    "intensity": 4,
+    "safety": "clean"
+  },
+  {
+    "id": "q098",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's a wildly specific thing you are unironically, unjustifiably better at than almost every person you've ever met?",
+    "angle": "secret talent brag unlocked",
+    "emotion": "funny",
+    "intensity": 1,
+    "safety": "clean"
+  },
+  {
+    "id": "q099",
+    "category": "Truth",
+    "audience": "deep",
+    "question": "What's a version of kindness someone showed you as a kid that you didn't recognize as kindness until years later?",
+    "angle": "delayed gratitude hits different",
+    "emotion": "confession",
+    "intensity": 3,
+    "safety": "clean"
+  },
+  {
+    "id": "q100",
+    "category": "Truth",
+    "audience": "party",
+    "question": "What's something you're privately competitive about that has no stakes, no audience, and absolutely no reason to matter this much?",
+    "angle": "unhinged low-stakes rivalry",
+    "emotion": "funny",
+    "intensity": 2,
+    "safety": "clean"
+  }
+]
