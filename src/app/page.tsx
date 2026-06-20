@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import CategoryGrid from "@/components/CategoryGrid";
@@ -52,15 +53,23 @@ export default function Home() {
   return (
     <div>
       {/* Hero */}
-      <section className="px-4 pt-14 pb-16 text-center sm:pt-20 sm:pb-24">
-        <h1 className="mx-auto max-w-3xl font-display text-4xl font-extrabold leading-tight text-white sm:text-6xl">
+      <section className="relative overflow-hidden px-4 pt-14 pb-16 text-center sm:pt-20 sm:pb-24">
+        <Image
+          src="/mascot-peek.png"
+          alt=""
+          width={747}
+          height={1171}
+          priority
+          className="pointer-events-none absolute -right-4 top-8 w-28 select-none drop-shadow-[0_0_30px_rgba(255,47,135,0.35)] sm:w-44 sm:top-12 lg:w-56 lg:right-4"
+        />
+        <h1 className="relative mx-auto max-w-3xl font-display text-4xl font-extrabold leading-tight text-white sm:text-6xl">
           Your group. Endless questions. <span className="text-gradient-accent">Zero awkward silence.</span>
         </h1>
-        <p className="mx-auto mt-5 max-w-xl text-lg text-white/70">
+        <p className="relative mx-auto mt-5 max-w-xl text-lg text-white/70">
           AI-generated truth or dare, would you rather, and never have I ever. Pull it up on one
           phone and pass it around, no cards, no setup.
         </p>
-        <div className="mt-8 flex flex-col items-center gap-3">
+        <div className="relative mt-8 flex flex-col items-center gap-3">
           <AppStoreBadge size="lg" />
           <Link href="/play" className="text-sm font-bold text-white/60 underline-offset-4 hover:text-white hover:underline">
             Or play free in your browser
