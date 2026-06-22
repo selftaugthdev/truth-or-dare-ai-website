@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
 import { Baloo_2, Plus_Jakarta_Sans } from "next/font/google";
+import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { SITE_NAME, SITE_URL } from "@/lib/site-config";
 import "./globals.css";
+
+const GA_MEASUREMENT_ID = "G-38R2W9FMMK";
 
 const baloo = Baloo_2({
   variable: "--font-baloo",
@@ -39,6 +42,18 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${baloo.variable} ${jakarta.variable} h-full antialiased`}>
       <body className="bg-party-gradient flex min-h-full flex-col">
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `}
+        </Script>
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
